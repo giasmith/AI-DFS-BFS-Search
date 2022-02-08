@@ -1,0 +1,10 @@
+Moves: ['R', 'D', 'L', 'D', 'D', 'R', 'R']
+Cost of Path: 7
+Number of nodes expanded: 478
+Time Taken: 0.01177911
+Max Ram Used: 10678.27200000
+Fringe Size: 527
+Max Fringe Size: 528
+Search Depth: 7
+Max Search Depth: 8
+Solution Exist
